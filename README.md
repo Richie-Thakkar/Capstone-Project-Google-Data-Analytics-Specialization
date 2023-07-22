@@ -34,7 +34,7 @@ your hydration levels.
 Membership gives users 24/7 access to fully personalized guidance on nutrition, activity, sleep, health
 and beauty, and mindfulness based on their lifestyle and goals.
 
-##About the Company
+## About the Company
 Urška Sršen and Sando Mur founded Bellabeat, a high-tech company that manufactures health-focused smart products.
 Sršen used her background as an artist to develop beautifully designed technology that informs and inspires women
 around the world. Collecting data on activity, sleep, stress, and reproductive health has allowed Bellabeat to empower
